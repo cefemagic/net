@@ -13,7 +13,7 @@ if (DateTime.TryParseExact(fechaInput, "ddMMyyyy", null, System.Globalization.Da
         edad--;
     }
 
-    Console.WriteLine($"Tu edad es: {edad} años");
+    Console.WriteLine($"Tu edad debe ser: {edad} años");
 }
 else
 {
