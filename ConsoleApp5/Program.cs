@@ -1,7 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-Console.WriteLine("¿Cuántas preguntas deseas hacer?");
 if (int.TryParse(Console.ReadLine(), out int nPreguntas) && nPreguntas > 0)
 {
     for (int i = 1; i <= nPreguntas; i++)
