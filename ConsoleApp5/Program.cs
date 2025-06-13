@@ -1,7 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-
-
     Console.WriteLine($"Introduce tu fecha de nacimiento en formato ddMMyyyy:");
     string? fechaInput = Console.ReadLine();
 
