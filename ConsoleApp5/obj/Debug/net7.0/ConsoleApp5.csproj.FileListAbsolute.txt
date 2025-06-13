@@ -12,3 +12,4 @@ C:\Users\Khelin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\refint\Con
 C:\Users\Khelin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.pdb
 C:\Users\Khelin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.genruntimeconfig.cache
 C:\Users\Khelin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ref\ConsoleApp5.dll
+C:\Users\Khelin\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.sourcelink.json
